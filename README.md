@@ -1,4 +1,6 @@
 # aakash.demo
 This is my first Git Repository
 <br>
-Author Name: Aakash Pathak 
+Author Name: Aakash Pathak (Nitian)
+
+
